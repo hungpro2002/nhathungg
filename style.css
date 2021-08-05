@@ -1,0 +1,64 @@
+@media screen and (min-width: 350px) {
+.dangnhap {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+}
+.dangnhap_1 {
+    position: absolute;
+    width: 80%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.11);
+    margin-left: 10%;
+}
+.dangnhap_2 {
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    margin: auto;
+    margin-top: 20%;
+    position: relative;
+}
+.dangnhap_3 {
+    color: black;
+    margin-top: 5%;
+    text-align: center;
+}
+.khunginput {
+    margin-top: 10%;
+}
+.theinput_1 {
+    margin-top: 5%;
+}
+.theinput_2 {
+    width: 90%;
+    height: 25px;
+    margin-left: 4%;
+}
+.dangnhap_4 {
+    width: 90%;
+    height: 35px;
+    background-color: rgb(43, 196, 56);
+    color: gold;
+    margin-top: 8%;
+    margin-left: 5%;
+}
+.dangnhap_4-link {
+    margin-top: 10px;
+    margin-left: 40%;
+    font-size: 15px;
+    text-decoration: none;
+}
+.dangnhap_5 {
+    text-align: center;
+}
+.dangnhap_6 {
+    text-decoration: none;
+}
+.dangnhapkhac_1 {
+    margin-left: 10%;
+}
+}
